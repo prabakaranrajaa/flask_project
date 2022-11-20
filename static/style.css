@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    background: #bedde5;
+
+}
+body{
+    background: white;
+    width: 800px;
+    height: 1000px;
+    margin: auto;
+    padding: 15px;
+    font-family: roboto;
+    color: black;
+}
+.content {
+
+    margin: auto;
+  }
+
+a{
+        color: #f7f7f7!important;
+        text-decoration: none!important;;
+}
